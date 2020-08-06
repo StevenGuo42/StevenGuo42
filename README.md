@@ -1,6 +1,12 @@
-### Hi there 👋
+### Hi there, I'm Steven 👋
 [![HitCount](http://hits.dwyl.com/StevenGuo42/{project}.svg)](http://hits.dwyl.com/StevenGuo42/{project})
 
+Currently working on my BS in Computer Science.
+
+Interested in AI, machine learning and data science.
+
+[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />]
+ 
 <!--
 **StevenGuo42/StevenGuo42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
