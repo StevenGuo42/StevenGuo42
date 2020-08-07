@@ -12,4 +12,4 @@
 
 
 [twitter]: https://twitter.com/StevenGuo42
-[email]: hguo988@community.nipissingu.ca
+[email]: mailto:hguo988@community.nipissingu.ca
