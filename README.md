@@ -1,7 +1,7 @@
 ### Hi there, I'm Steven 👋
 [![HitCount](http://hits.dwyl.com/StevenGuo42/{project}.svg)](http://hits.dwyl.com/StevenGuo42/{project})
 
-<img src="https://www.codewars.com/users/StevenGuo42/badges/small">
+<img src="https://www.codewars.com/users/StevenGuo42/badges/large" alt="drawing" width="100"/>
 
 - Currently working on my BS in Computer Science.
 - Interested in AI, machine learning and data science.
