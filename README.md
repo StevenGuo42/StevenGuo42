@@ -14,5 +14,8 @@
 
 [twitter]: https://twitter.com/StevenGuo42
 [email]: mailto:hguo988@community.nipissingu.ca
-
+ <!---
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=StevenGuo42)](https://github.com/anuraghazra/github-readme-stats)
+--->
+
+
