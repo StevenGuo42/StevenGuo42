@@ -3,7 +3,7 @@
 <img src="https://www.codewars.com/users/StevenGuo42/badges/large" alt="drawing" width="220"/>
 
 - Currently working on my BS in Computer Science.
-- Interested in AI, machine learning and data science.
+- Interested in Artificial Intelligence, Machine Learning, and Biomedicine
 
 [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /> ][twitter]
 [@StevenGuo42][twitter]
