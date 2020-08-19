@@ -5,7 +5,7 @@
 - Currently working on my BS in Computer Science.
 - Interested in Artificial Intelligence, Machine Learning, and Biomedicine
 
-[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /> @StevenGuo42][twitter]
+[<img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /> @StevenGuo42][twitter]
 
 [hguo988 <img width="12px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/mail-dot-ru.svg" /> community.nipissingu.ca][email]
 
