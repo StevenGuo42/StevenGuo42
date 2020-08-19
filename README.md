@@ -7,7 +7,7 @@
 
 [<img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /> @StevenGuo42][twitter]
 
-[<img width="22px" src="https://visualpharm.com/assets/836/Message-595b40b85ba036ed117dd977.svg" />
+[<img width="22px" src="https://visualpharm.com/assets/48/Message-595b40b75ba036ed117d6701.svg" />
 hGuo988 <img width="12px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/mail-dot-ru.svg" />
 community.NipissingU.ca][email]
 
