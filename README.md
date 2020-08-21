@@ -16,7 +16,7 @@ community.NipissingU.ca][email]
 
 
 <img width="100px" src="https://StevenGuo42.GitHub.io/misc/newest_archillect_pic/redirect.html" />
-
+![Can't load pic](https://StevenGuo42.GitHub.io/misc/newest_archillect_pic/redirect.html)
 
 
 [twitter]: https://twitter.com/StevenGuo42
