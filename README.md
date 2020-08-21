@@ -15,6 +15,9 @@ community.NipissingU.ca][email]
 
 
 
+<img width="100px" src="https://stevenguo42.github.io/misc/newest_archillect_pic/redirect.html" />
+
+
 
 [twitter]: https://twitter.com/StevenGuo42
 [email]: mailto:hguo988@community.nipissingu.ca
