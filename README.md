@@ -11,7 +11,7 @@
 hGuo988 <img width="12px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/mail-dot-ru.svg" />
 community.NipissingU.ca][email]
 
-[<img width="22px" src="https://visualpharm.com/assets/78/Website-595b40b75ba036ed117d5c7f.svg" /> StevenGuo42.GitHub.io][website]
+[<img width="22px" src="https://visualpharm.com/assets/78/Website-595b40b75ba036ed117d5c7f.svg" /> 21世纪炼金术师.cc][website]
 
 
  <!---
@@ -21,7 +21,7 @@ community.NipissingU.ca][email]
 
 [twitter]: https://twitter.com/StevenGuo42
 [email]: mailto:hguo988@community.nipissingu.ca
-[website]: https://stevenguo42.github.io/
+[website]: https://xn--21-sw2c014dyyke3ng5wz68a.cc/
 
  <!---
 [![My github stats](https://github-readme-stats.vercel.app/api?username=StevenGuo42)](https://github.com/anuraghazra/github-readme-stats)
