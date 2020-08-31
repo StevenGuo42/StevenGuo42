@@ -7,9 +7,9 @@
 
 [<img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /> @StevenGuo42][twitter]
 
-[<img width="22px" src="https://visualpharm.com/assets/48/Message-595b40b75ba036ed117d6701.svg" />
+<img width="22px" src="https://visualpharm.com/assets/48/Message-595b40b75ba036ed117d6701.svg" />
 hGuo988 <img width="12px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/mail-dot-ru.svg" />
-community.NipissingU.ca][email]
+community.NipissingU.ca
 
 [<img width="22px" src="https://visualpharm.com/assets/78/Website-595b40b75ba036ed117d5c7f.svg" /> 21世纪炼金术师.cc][website]
 
@@ -20,7 +20,6 @@ community.NipissingU.ca][email]
 
 
 [twitter]: https://twitter.com/StevenGuo42
-[email]: mailto:hguo988@community.nipissingu.ca
 [website]: https://xn--21-sw2c014dyyke3ng5wz68a.cc/
 
  <!---
