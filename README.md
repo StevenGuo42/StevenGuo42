@@ -13,6 +13,8 @@
 
 [<img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/github.svg" /> StevenGuo42][github]
 
+[<img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/steam.svg" /> Steven Guo][steam]
+
  <!---
 <img width="100px" src="https://StevenGuo42.GitHub.io/misc/newest_archillect_pic/redirect.html" />
 --->
@@ -21,7 +23,7 @@
 [twitter]: https://twitter.com/StevenGuo42
 [website]: https://xn--21-sw2c014dyyke3ng5wz68a.cc/
 [github]: https://github.com/StevenGuo42
-
+[steam]: https://steamcommunity.com/id/stevenguo5033/
 
  <!---
 [![My github stats](https://github-readme-stats.vercel.app/api?username=StevenGuo42)](https://github.com/anuraghazra/github-readme-stats)
