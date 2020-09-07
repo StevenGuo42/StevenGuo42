@@ -6,11 +6,11 @@
 - Interested in Artificial Intelligence, Machine Learning, and Biomedicine
 
 [<img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /> @StevenGuo42][twitter]
-&ensp;<img width="22px" src="https://visualpharm.com/assets/48/Message-595b40b75ba036ed117d6701.svg" /> hGuo988<img width="12px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/mail-dot-ru.svg" />community.NipissingU.ca
+&ensp;&ensp;&ensp;&ensp;<img width="22px" src="https://visualpharm.com/assets/48/Message-595b40b75ba036ed117d6701.svg" /> hGuo988<img width="12px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/mail-dot-ru.svg" />community.NipissingU.ca
 
 [<img width="22px" src="https://visualpharm.com/assets/78/Website-595b40b75ba036ed117d5c7f.svg" /> 21世纪炼金术师.cc][website]
-&ensp;[<img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/github.svg" /> StevenGuo42][github]
-&ensp;[<img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/steam.svg" /> Steven Guo][steam]
+&ensp;&ensp;&ensp;&ensp;[<img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/github.svg" /> StevenGuo42][github]
+&ensp;&ensp;&ensp;&ensp;[<img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/steam.svg" /> Steven Guo][steam]
 
  <!---
 <img width="100px" src="https://StevenGuo42.GitHub.io/misc/newest_archillect_pic/redirect.html" />
