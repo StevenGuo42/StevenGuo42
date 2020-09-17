@@ -12,7 +12,9 @@
 
 [<img width="22px" src="https://www.svgrepo.com/show/4471/link.svg" /> 21世纪炼金术师.cc][website]
 &ensp;&ensp;&ensp;&ensp;[<img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /> @StevenGuo42][twitter]
-&ensp;&ensp;&ensp;&ensp;[<img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/steam.svg" /> Steven Guo][steam]
+&ensp;&ensp;&ensp;&ensp;[<img width="22px" src="https://www.svgrepo.com/show/154949/telegram.svg" /> StevenGuo][telegram]
+
+[<img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/steam.svg" /> Steven Guo][steam]
 
  <!---
 <img width="100px" src="https://StevenGuo42.GitHub.io/misc/newest_archillect_pic/redirect.html" />
@@ -24,6 +26,7 @@
 [github]: https://github.com/StevenGuo42
 [steam]: https://steamcommunity.com/id/stevenguo5033/
 [CV]: https://xn--21-sw2c014dyyke3ng5wz68a.cc/cv/
+[telegram]: https://t.me/StevenGuo
  <!---
 [![My github stats](https://github-readme-stats.vercel.app/api?username=StevenGuo42)](https://github.com/anuraghazra/github-readme-stats)
 --->
