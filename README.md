@@ -6,8 +6,7 @@
 - Currently working on my BSc in Computer Science.
 - Interested in Artificial Intelligence, Machine Learning, and Biomedicine
 
-<img width="22px" src="https://visualpharm.com/assets/48/Message-595b40b75ba036ed117d6701.svg" /> HGuo988<img width="12px" src="https://www.svgrepo.com/show/163146/at.svg" />community<img width="2px" src="https://www.svgrepo.com/show/43345/dot.svg" />
-NipissingU<img width="2px" src="https://www.svgrepo.com/show/43345/dot.svg" />ca
+<img width="22px" src="https://visualpharm.com/assets/48/Message-595b40b75ba036ed117d6701.svg" /> HGuo988<img width="12px" src="https://www.svgrepo.com/show/163146/at.svg" />community<img width="2px" src="https://www.svgrepo.com/show/43345/dot.svg" />NipissingU<img width="2px" src="https://www.svgrepo.com/show/43345/dot.svg" />ca
 &ensp;&ensp;&ensp;&ensp;[<img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/github.svg" /> StevenGuo42][github]
 &ensp;&ensp;&ensp;&ensp;[<img width="22px" src="https://www.svgrepo.com/show/112988/cv-file-interface-symbol.svg" /> CV][CV]
 
