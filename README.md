@@ -3,8 +3,10 @@
  <!---[![HitCount](http://hits.dwyl.com/StevenGuo42/{project}.svg)](http://hits.dwyl.com/StevenGuo42/{project})--->
  <!---<img src="https://www.codewars.com/users/StevenGuo42/badges/large" alt="drawing" width="220"/>--->
 
-- Currently working on my BSc in Computer Science.
-- Interested in Artificial Intelligence, Machine Learning, and Biomedicine
+- Currently working on my BSc in Computer Science
+- Interested in Artificial Intelligence, Machine Learning, Optimization, and Biomedicine
+- Working on surrogate functions, optimization, EMG signals, and genomes
+- Looking for postgraduate opportunities
 
 <img width="22px" src="https://visualpharm.com/assets/48/Message-595b40b75ba036ed117d6701.svg" /> HGuo988<img width="12px" src="https://www.svgrepo.com/show/163146/at.svg" alt=" at "/>my<img width="2px" src="https://www.svgrepo.com/show/43345/dot.svg" alt=" dot " />NipissingU<img width="2px" src="https://www.svgrepo.com/show/43345/dot.svg" alt=" dot " />ca
 &ensp;&ensp;&ensp;&ensp;[<img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/github.svg" /> StevenGuo42][github]
