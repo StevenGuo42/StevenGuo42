@@ -6,7 +6,7 @@
 - Currently working on my BSc in Computer Science.
 - Interested in Artificial Intelligence, Machine Learning, and Biomedicine
 
-<img width="22px" src="https://visualpharm.com/assets/48/Message-595b40b75ba036ed117d6701.svg" /> HGuo988<img width="12px" src="https://www.svgrepo.com/show/163146/at.svg" />community.NipissingU.ca
+<img width="22px" src="https://visualpharm.com/assets/48/Message-595b40b75ba036ed117d6701.svg" /> HGuo988<img width="12px" src="https://www.svgrepo.com/show/163146/at.svg" alt=" at "/>my<img width="2px" src="https://www.svgrepo.com/show/43345/dot.svg" alt=" dot " />NipissingU<img width="2px" src="https://www.svgrepo.com/show/43345/dot.svg" alt=" dot " />ca
 &ensp;&ensp;&ensp;&ensp;[<img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/github.svg" /> StevenGuo42][github]
 &ensp;&ensp;&ensp;&ensp;[<img width="22px" src="https://www.svgrepo.com/show/112988/cv-file-interface-symbol.svg" /> CV][CV]
 
@@ -25,7 +25,7 @@
 [website]: https://xn--21-sw2c014dyyke3ng5wz68a.cc/
 [github]: https://github.com/StevenGuo42
 [steam]: https://steamcommunity.com/id/stevenguo5033/
-[CV]: https://xn--21-sw2c014dyyke3ng5wz68a.cc/cv/
+[CV]: https://docs.google.com/gview?url=https://github.com/StevenGuo42/StevenGuo42/raw/master/CV.pdf&embedded=true
 [telegram]: https://t.me/StevenGuo
  <!---
 [![My github stats](https://github-readme-stats.vercel.app/api?username=StevenGuo42)](https://github.com/anuraghazra/github-readme-stats)
