@@ -13,7 +13,7 @@
 &ensp;&ensp;&ensp;&ensp;[<img width="22px" src="https://www.svgrepo.com/show/112988/cv-file-interface-symbol.svg" /> CV][CV]
 
 [<img width="22px" src="https://www.svgrepo.com/show/4471/link.svg" /> 21世纪炼金术师.cc][website]
-&ensp;&ensp;&ensp;&ensp;[<img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /> @StevenGuo42 (temporarily not available)][twitter]
+[//]: <> (&ensp;&ensp;&ensp;&ensp;[<img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /> @StevenGuo42 (temporarily not available)][twitter])
 &ensp;&ensp;&ensp;&ensp;[<img width="22px" src="https://www.svgrepo.com/show/154949/telegram.svg" /> StevenGuo][telegram]
 
 [<img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/steam.svg" /> Steven Guo][steam]
