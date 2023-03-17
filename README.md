@@ -6,6 +6,7 @@
 - MEng in ECE (graduating in May 2023)
 - Working on Machine Learning and Data Science
 - Looking for job opportunities in US
+- Check out some of my works involve visualization [here](https://github.com/StevenGuo42/visualizations)
 
 <img width="22px" src="https://visualpharm.com/assets/48/Message-595b40b75ba036ed117d6701.svg" style="filter: invert(1);"/> Steven<img width="2px" src="https://www.svgrepo.com/show/43345/dot.svg" alt=" dot " style="filter: invert(1); !important;"/>Guo<img width="12px" src="https://www.svgrepo.com/show/163146/at.svg" alt=" at " style="filter: invert(1);"/>Duke<img width="2px" src="https://www.svgrepo.com/show/43345/dot.svg" alt=" dot " style="filter: invert(1);"/>edu
 &ensp;&ensp;&ensp;&ensp;[<img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/github.svg" /> StevenGuo42][github]
