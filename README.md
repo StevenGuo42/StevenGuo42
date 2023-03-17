@@ -9,13 +9,15 @@
 
 <img width="22px" src="https://visualpharm.com/assets/48/Message-595b40b75ba036ed117d6701.svg" style="filter: invert(1);"/> Steven<img width="2px" src="https://www.svgrepo.com/show/43345/dot.svg" alt=" dot " style="filter: invert(1); !important;"/>Guo<img width="12px" src="https://www.svgrepo.com/show/163146/at.svg" alt=" at " style="filter: invert(1);"/>Duke<img width="2px" src="https://www.svgrepo.com/show/43345/dot.svg" alt=" dot " style="filter: invert(1);"/>edu
 &ensp;&ensp;&ensp;&ensp;[<img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/github.svg" /> StevenGuo42][github]
-&ensp;&ensp;&ensp;&ensp;[<img width="22px" src="https://www.svgrepo.com/show/112988/cv-file-interface-symbol.svg" /> CV][CV]
+
+[<img width="22px" src="https://www.svgrepo.com/show/112988/cv-file-interface-symbol.svg" /> CV][CV]
+&ensp;&ensp;&ensp;&ensp;[<img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/steam.svg" /> Steven Guo][steam]
 <!---
 [<img width="22px" src="https://www.svgrepo.com/show/4471/link.svg" /> 21世纪炼金术师.cc][website] &ensp;&ensp;&ensp;&ensp;
 [<img width="22px" src="https://www.svgrepo.com/show/154949/telegram.svg" /> StevenGuo][telegram]--->
 
 
-[<img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/steam.svg" /> Steven Guo][steam]
+
 
  <!---
 <img width="100px" src="https://StevenGuo42.GitHub.io/misc/newest_archillect_pic/redirect.html" />
