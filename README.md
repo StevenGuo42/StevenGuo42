@@ -28,7 +28,7 @@
 [website]: https://xn--21-sw2c014dyyke3ng5wz68a.cc/
 [github]: https://github.com/StevenGuo42
 [steam]: https://steamcommunity.com/id/stevenguo5033/
-[CV]: https://docs.google.com/gview?url=https://github.com/StevenGuo42/StevenGuo42/raw/master/CV.pdf&embedded=true
+[CV]: ./CV.pdf
 
  <!---
 [![My github stats](https://github-readme-stats.vercel.app/api?username=StevenGuo42)](https://github.com/anuraghazra/github-readme-stats)
