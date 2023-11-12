@@ -11,7 +11,7 @@
 
 
 
-<picture><source height="16px" srcset="./ico/mail-dark.svg"  media="(prefers-color-scheme: dark)" ><img height="16px" src="./ico/mail-light.svg" /></picture> Steven<picture><source height="16px" srcset="./ico/dot-dark.svg"  media="(prefers-color-scheme: dark)" ><img height="16px" src="https://www.svgrepo.com/show/43345/dot.svg" alt=" dot "/></picture>Guo<picture><source height="12px" srcset="./ico/at-dark.svg"  media="(prefers-color-scheme: dark)" ><img height="12px" src="./ico/at-light.svg" alt=" at " /></picture>Duke<picture><source height="16px" srcset="./ico/dot-dark.svg"  media="(prefers-color-scheme: dark)" ><img height="16px" src="./ico/dot-light.svg" alt=" dot "/></picture>edu
+<picture><source height="16px" srcset="./ico/mail-dark.svg"  media="(prefers-color-scheme: dark)" ><img height="16px" src="./ico/mail-light.svg" /></picture> Steven<picture><source height="16px" srcset="./ico/dot-dark.svg"  media="(prefers-color-scheme: dark)" ><img height="16px" src="./ico/dot-light.svg" alt=" dot "/></picture>Guo<picture><source height="12px" srcset="./ico/at-dark.svg"  media="(prefers-color-scheme: dark)" ><img height="12px" src="./ico/at-light.svg" alt=" at " /></picture>Duke<picture><source height="16px" srcset="./ico/dot-dark.svg"  media="(prefers-color-scheme: dark)" ><img height="16px" src="./ico/dot-light.svg" alt=" dot "/></picture>edu
 &ensp;&ensp;&ensp;&ensp;[<picture><source height="16px" srcset="./ico/github-dark.svg"  media="(prefers-color-scheme: dark)" ><img height="16px" src="./ico/github-light.svg" /></picture> StevenGuo42][github]
 &ensp;&ensp;&ensp;&ensp;[<picture><source height="16px" srcset="./ico/cv-dark.svg"  media="(prefers-color-scheme: dark)" ><img height="16px" src="./ico/cv-light.svg" /></picture> CV][CV]
 <!---
