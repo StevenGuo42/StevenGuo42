@@ -7,7 +7,7 @@
 - Working on Machine Learning and Data Science
 - Looking for job opportunities in the US
 - Check out some of my works involve visualization [here](https://github.com/StevenGuo42/visualizations)
-- My recent open-source projects: [poTranslation](https://github.com/StevenGuo42/poTranslation)
+- My recent open-source projects: [poTranslation](https://github.com/StevenGuo42/poTranslation), [PyTorch boids simulation](https://github.com/StevenGuo42/torch-boid)
 
 
 
