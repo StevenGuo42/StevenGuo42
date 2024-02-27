@@ -7,13 +7,13 @@
 - Working on Machine Learning and Data Science
 - Looking for job opportunities in the US
 - Check out some of my works involve visualization [here](https://github.com/StevenGuo42/visualizations)
-- My recent open-source projects: [poTranslation](https://github.com/StevenGuo42/poTranslation)
+- My recent open-source projects: [poTranslation](https://github.com/StevenGuo42/poTranslation), [PyTorch boids simulation](https://github.com/StevenGuo42/torch-boid)
 
 
 
 <picture><source height="16px" srcset="./ico/mail-dark.svg"  media="(prefers-color-scheme: dark)" ><img height="16px" src="./ico/mail-light.svg" /></picture> Steven<picture><source height="16px" srcset="./ico/dot-dark.svg"  media="(prefers-color-scheme: dark)" ><img height="16px" src="./ico/dot-light.svg" alt=" dot "/></picture>Guo<picture><source height="12px" srcset="./ico/at-dark.svg"  media="(prefers-color-scheme: dark)" ><img height="12px" src="./ico/at-light.svg" alt=" at " /></picture>Duke<picture><source height="16px" srcset="./ico/dot-dark.svg"  media="(prefers-color-scheme: dark)" ><img height="16px" src="./ico/dot-light.svg" alt=" dot "/></picture>edu
-&ensp;&ensp;&ensp;&ensp;[<picture><source height="16px" srcset="./ico/github-dark.svg"  media="(prefers-color-scheme: dark)" ><img height="16px" src="./ico/github-light.svg" /></picture> StevenGuo42][github]
-&ensp;&ensp;&ensp;&ensp;[<picture><source height="16px" srcset="./ico/cv-dark.svg"  media="(prefers-color-scheme: dark)" ><img height="16px" src="./ico/cv-light.svg" /></picture> CV][CV]
+&ensp;&ensp;&ensp;&ensp;[<picture><source height="14px" srcset="./ico/github-dark.svg"  media="(prefers-color-scheme: dark)" ><img height="14px" src="./ico/github-light.svg" /></picture> StevenGuo42][github]
+&ensp;&ensp;&ensp;&ensp;[<picture><source height="14px" srcset="./ico/cv-dark.svg"  media="(prefers-color-scheme: dark)" ><img height="14px" src="./ico/cv-light.svg" /></picture> CV][CV]
 <!---
 &ensp;&ensp;&ensp;&ensp;[<img height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/steam.svg" /> Steven Guo][steam]
 [<img height="22px" src="https://www.svgrepo.com/show/4471/link.svg" /> 21世纪炼金术师.cc][website] &ensp;&ensp;&ensp;&ensp;
