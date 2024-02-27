@@ -34,10 +34,10 @@
 ### Connect with me
 <!--<picture><source height="16px" srcset="./ico/mail-dark.svg"  media="(prefers-color-scheme: dark)" ><img height="16px" src="./ico/mail-light.svg" /></picture> Steven<picture><source height="16px" srcset="./ico/dot-dark.svg"  media="(prefers-color-scheme: dark)" ><img height="16px" src="./ico/dot-light.svg" alt=" dot "/></picture>Guo<picture><source height="12px" srcset="./ico/at-dark.svg"  media="(prefers-color-scheme: dark)" ><img height="12px" src="./ico/at-light.svg" alt=" at " /></picture>Duke<picture><source height="16px" srcset="./ico/dot-dark.svg"  media="(prefers-color-scheme: dark)" ><img height="16px" src="./ico/dot-light.svg" alt=" dot "/></picture>edu-->
 [![Gmail](https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:steven.g.42@outlook.com?subject=Sent%20From%20GitHub%20User&body=Hello%20Steven:%0A%0A)
-&ensp;&ensp;&ensp;&ensp;[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/StevenGuo42)
-&ensp;&ensp;&ensp;&ensp;[![Résumé](https://img.shields.io/badge/R%C3%A9sum%C3%A9-0b204f.svg?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgZmlsbD0id2hpdGUiIGNsYXNzPSJiaSBiaS1maWxlLWVhcm1hcmstcGVyc29uIiB2aWV3Qm94PSIwIDAgMTYgMTYiPgogIDxwYXRoIGQ9Ik0xMSA4YTMgMyAwIDEgMS02IDAgMyAzIDAgMCAxIDYgMHoiLz4KICA8cGF0aCBkPSJNMTQgMTRWNC41TDkuNSAwSDRhMiAyIDAgMCAwLTIgMnYxMmEyIDIgMCAwIDAgMiAyaDhhMiAyIDAgMCAwIDItMnpNOS41IDNBMS41IDEuNSAwIDAgMCAxMSA0LjVoMnY5LjI1NVMxMiAxMiA4IDEycy01IDEuNzU1LTUgMS43NTVWMmExIDEgMCAwIDEgMS0xaDUuNXYyeiIvPgo8L3N2Zz4=)](CV)
-&ensp;&ensp;&ensp;&ensp;[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hongrui-guo/)
-&ensp;&ensp;&ensp;&ensp;[![Steam](https://img.shields.io/badge/Steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/StevenG42)
+&ensp;&ensp;&ensp;&ensp;[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)][github]
+&ensp;&ensp;&ensp;&ensp;[![Résumé](https://img.shields.io/badge/R%C3%A9sum%C3%A9-0b204f.svg?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgZmlsbD0id2hpdGUiIGNsYXNzPSJiaSBiaS1maWxlLWVhcm1hcmstcGVyc29uIiB2aWV3Qm94PSIwIDAgMTYgMTYiPgogIDxwYXRoIGQ9Ik0xMSA4YTMgMyAwIDEgMS02IDAgMyAzIDAgMCAxIDYgMHoiLz4KICA8cGF0aCBkPSJNMTQgMTRWNC41TDkuNSAwSDRhMiAyIDAgMCAwLTIgMnYxMmEyIDIgMCAwIDAgMiAyaDhhMiAyIDAgMCAwIDItMnpNOS41IDNBMS41IDEuNSAwIDAgMCAxMSA0LjVoMnY5LjI1NVMxMiAxMiA4IDEycy01IDEuNzU1LTUgMS43NTVWMmExIDEgMCAwIDEgMS0xaDUuNXYyeiIvPgo8L3N2Zz4=)][CV]
+&ensp;&ensp;&ensp;&ensp;[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]
+&ensp;&ensp;&ensp;&ensp;[![Steam](https://img.shields.io/badge/Steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)][steam]
 <!---
 &ensp;&ensp;&ensp;&ensp;[<img height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/steam.svg" /> Steven Guo][steam]
 [<img height="22px" src="https://www.svgrepo.com/show/4471/link.svg" /> 21世纪炼金术师.cc][website] &ensp;&ensp;&ensp;&ensp;
@@ -55,7 +55,8 @@
 [twitter]: https://twitter.com/StevenGuo42
 [website]: https://xn--21-sw2c014dyyke3ng5wz68a.cc/
 [github]: https://github.com/StevenGuo42
-[steam]: https://steamcommunity.com/id/stevenguo5033/
+[linkedin]: https://www.linkedin.com/in/hongrui-guo/
+[steam]: https://steamcommunity.com/id/StevenG42/
 [CV]: ./CV.pdf
 
  <!---
