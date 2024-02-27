@@ -3,11 +3,10 @@
  <!---[![HitCount](http://hits.dwyl.com/StevenGuo42/{project}.svg)](http://hits.dwyl.com/StevenGuo42/{project})--->
  <!---<img src="https://www.codewars.com/users/StevenGuo42/badges/large" alt="drawing" height="220"/>--->
 
-- MEng in ECE, 2023
-- Working on Machine Learning and Data Science
-- Looking for job opportunities in the US
-- Check out some of my works involve visualization [here](https://github.com/StevenGuo42/visualizations)
-- My recent open-source projects: [poTranslation](https://github.com/StevenGuo42/poTranslation), [PyTorch boids simulation](https://github.com/StevenGuo42/torch-boid)
+- 🏢 Research Software Developer @ [RENCI](https://renci.org/)
+- 🤖 Working on LLM and also Machine Learning in general
+- 🖼️ Some of my works involve visualization [here](https://github.com/StevenGuo42/visualizations)
+- <picture><source height="22px" srcset="./ico/copyleft-dark.svg"  media="(prefers-color-scheme: dark)" ><img height="16px" src="./ico/copyleft-light.svg" /></picture> My recent open-source projects: [poTranslation](https://github.com/StevenGuo42/poTranslation), [PyTorch boids simulation](https://github.com/StevenGuo42/torch-boid)
 
 
 
