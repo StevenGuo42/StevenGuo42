@@ -4,6 +4,9 @@
 ---
 - 🏢 Research Software Developer @ [RENCI](https://renci.org/)
 - 🤖 Working on **LLM** and also **Machine Learning** in general
+- 🔰 Currently learning ![LlamaIndex](https://img.shields.io/badge/%F0%9F%A6%99%20LlamaIndex-2f236c) ![langchain](https://img.shields.io/badge/%F0%9F%A6%9C%EF%B8%8F%F0%9F%94%97%20LangChain-1c3b3b) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?logo=fastapi) ![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB) 
+- 🖼️ Some of my [works involve visualization](https://github.com/StevenGuo42/visualizations)
+- <picture><source height="22px" srcset="./ico/copyleft-dark.svg"  media="(prefers-color-scheme: dark)" ><img height="16px" src="./ico/copyleft-light.svg" /></picture> My recent **open-source projects**: [poTranslation](https://github.com/StevenGuo42/poTranslation), [PyTorch boids simulation](https://github.com/StevenGuo42/torch-boid)
 - ⚡ **Tools, Libraries, Frameworks**:
 
   |   |   |
@@ -25,9 +28,6 @@
   - Design:&emsp;&emsp;![Adobe](https://img.shields.io/badge/adobe_Suite-%23FF0000.svg?logo=adobe&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?logo=figma&logoColor=white)
   - Notes:&emsp;&emsp;&nbsp;![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?logo=obsidian&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?logo=markdown&logoColor=white)
 -->
-- 🔰 Currently learning ![LlamaIndex](https://img.shields.io/badge/%F0%9F%A6%99%20LlamaIndex-2f236c) ![langchain](https://img.shields.io/badge/%F0%9F%A6%9C%EF%B8%8F%F0%9F%94%97%20LangChain-1c3b3b) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?logo=fastapi) ![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB) 
-- 🖼️ Some of my works involve visualization [here](https://github.com/StevenGuo42/visualizations)
-- <picture><source height="22px" srcset="./ico/copyleft-dark.svg"  media="(prefers-color-scheme: dark)" ><img height="16px" src="./ico/copyleft-light.svg" /></picture> My recent **open-source projects**: [poTranslation](https://github.com/StevenGuo42/poTranslation), [PyTorch boids simulation](https://github.com/StevenGuo42/torch-boid)
 - 🛑 Slowing down on side projects and focusing on reading
   - 📖 Currently reading: [Architecture Patterns With Python](https://www.oreilly.com/library/view/architecture-patterns-with/9781492052197/), [Machine Learning Engineering With Python](https://www.packtpub.com/product/machine-learning-engineering-with-python-second-edition/9781837631964)
 
