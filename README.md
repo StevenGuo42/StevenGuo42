@@ -65,7 +65,7 @@
 [<img height="22px" src="https://www.svgrepo.com/show/4471/link.svg" /> 21世纪炼金术师.cc][website] &ensp;&ensp;&ensp;&ensp;
 [<img height="22px" src="https://www.svgrepo.com/show/154949/telegram.svg" /> StevenGuo][telegram]--->
 
-![activity-graph](https://github-readme-activity-graph.vercel.app/graph?username=StevenGuo42&theme=github-compact&hide_border=true&height=300)
+![activity-graph](https://github-readme-activity-graph.vercel.app/graph?username=StevenGuo42&theme=github-compact&hide_border=true&height=300&custom_title=Github%20Activity%20Graph)
 
  <!---
 <img height="100px" src="https://StevenGuo42.GitHub.io/misc/newest_archillect_pic/redirect.html" />
