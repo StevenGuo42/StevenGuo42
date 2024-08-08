@@ -4,7 +4,7 @@
 
 - 🏢 Research Software Developer [@RENCI](https://github.com/RENCI) at UNC-Chapel Hill
 - 🤖 Working on **LLM** and also **Machine Learning** in general
-- 🔰 Currently learning ![langchain](https://img.shields.io/badge/%F0%9F%A6%9C%EF%B8%8F%F0%9F%94%97%20LangChain-1c3b3b) ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?logo=docker&logoColor=white)![FastAPI](https://img.shields.io/badge/FastAPI-005571?logo=fastapi) ![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB) 
+- 🔰 Currently learning ![langchain](https://img.shields.io/badge/%F0%9F%A6%9C%EF%B8%8F%F0%9F%94%97%20LangChain-1c3b3b) ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?logo=docker&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?logo=fastapi) ![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB) 
 - 🖼️ Some of my [works involve visualization](https://github.com/StevenGuo42/visualizations)
 - <picture><source height="22px" srcset="./ico/copyleft-dark.svg"  media="(prefers-color-scheme: dark)" ><img height="16px" src="./ico/copyleft-light.svg" /></picture> My recent **open-source projects**:
   - [poTranslation](https://github.com/StevenGuo42/poTranslation): Translator for .po files, avaliable on [PyPI](https://pypi.org/project/poTranslation/)
