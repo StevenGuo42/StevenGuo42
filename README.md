@@ -3,13 +3,16 @@
  <!---<img src="https://www.codewars.com/users/StevenGuo42/badges/large" alt="drawing" height="220"/>--->
 
 - 🏢 Research Software Developer [@RENCI](https://github.com/RENCI) at UNC-Chapel Hill
-- 🤖 Working on **LLM** and also **Machine Learning** in general
+- 🧑‍💻 Working on **LLM** and **Machine Learning** in general
+- 🤹 Also working with census, health, and financial data outside of work
 - 🔰 Currently learning ![langchain](https://img.shields.io/badge/%F0%9F%A6%9C%EF%B8%8F%F0%9F%94%97%20LangChain-1c3b3b) ![K8s](https://img.shields.io/badge/Kubernetes-326CE5?logo=Kubernetes&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?logo=fastapi) ![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB) 
 - 🖼️ Some of my [works involve visualization](https://github.com/StevenGuo42/visualizations)
-- <picture><source height="22px" srcset="./ico/copyleft-dark.svg"  media="(prefers-color-scheme: dark)" ><img height="16px" src="./ico/copyleft-light.svg" /></picture> My recent **open-source projects**:
+
+<!----
+ <picture><source height="22px" srcset="./ico/copyleft-dark.svg"  media="(prefers-color-scheme: dark)" ><img height="16px" src="./ico/copyleft-light.svg" /></picture> My recent **open-source projects**:
   - [poTranslation](https://github.com/StevenGuo42/poTranslation): Translator for .po files, avaliable on [PyPI](https://pypi.org/project/poTranslation/)
   - [torch-boid](https://github.com/StevenGuo42/torch-boid): PyTorch boids flocking simulation
-
+--->
 <details>
 <summary><b>&emsp;⚡&nbsp;Tools, Libraries, Frameworks</b></summary>
 
@@ -36,7 +39,7 @@
   - Design:&emsp;&emsp;![Adobe](https://img.shields.io/badge/adobe_Suite-%23FF0000.svg?logo=adobe&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?logo=figma&logoColor=white)
   - Notes:&emsp;&emsp;&nbsp;![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?logo=obsidian&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?logo=markdown&logoColor=white)
 -->
-
+<!----
 <details>
 <summary>&emsp;🛑&nbsp;Slowing down on side projects and focusing on reading</summary>
 
@@ -51,7 +54,7 @@
     - Running Lean [📕](https://www.leanfoundry.com/books/running-lean)
 
 </details>
-
+--->
 
 ---
 ### Connect with me
