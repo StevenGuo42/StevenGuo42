@@ -6,8 +6,8 @@
 - 🏢 Research Software Developer [@RENCI](https://github.com/RENCI) at UNC-Chapel Hill
 - 🧑‍💻 Working on **LLM** and **Machine Learning** in general
 - 🤹 Also working with census, health, and financial data outside of work
-- 🔰 Currently learning ![langchain](https://img.shields.io/badge/%F0%9F%A6%9C%EF%B8%8F%F0%9F%94%97%20LangChain-1c3b3b) ![K8s](https://img.shields.io/badge/Kubernetes-326CE5?logo=Kubernetes&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?logo=fastapi) ![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB) 
-- 🖼️ Some of my [works involve visualization](https://github.com/StevenGuo42/visualizations)
+- 🔰 Currently learning ![langchain](https://img.shields.io/badge/%F0%9F%A6%9C%EF%B8%8F%F0%9F%94%97%20LangChain-1c3b3b) ![Docker](https://img.shields.io/badge/docker-257bd6?logo=docker&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?logo=fastapi) ![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB) 
+- 🖼️ Some of my [works involve visuals](https://github.com/StevenGuo42/visualizations)
 
 <!----
  <picture><source height="22px" srcset="./ico/copyleft-dark.svg"  media="(prefers-color-scheme: dark)" ><img height="16px" src="./ico/copyleft-light.svg" /></picture> My recent **open-source projects**:
